@@ -15,7 +15,7 @@ export default function Blog({ allPostsData }) {
       <section>
         <ul className="list-none">
           {allPostsData.map(({ id, date, title }) => (
-            <li className="flex flex-col mb-2" key={id}>
+            <li className="flex flex-col mb-4" key={id}>
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
               </Link>

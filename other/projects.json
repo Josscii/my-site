@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "白话天气",
+    "description":
+      "一款只用文字显示天气信息的 iOS app。天气类应用已经泛滥了，想要做一款不一样的很难，虽然自己不懂设计，但简洁总是很难出错。",
+    "link": "https://apps.apple.com/cn/app/%E7%99%BD%E8%AF%9D%E5%A4%A9%E6%B0%94/id1501015098"
+  },
+  {
+    "id": 2,
+    "title": "诗斗",
+    "description":
+      "一个 Wordle 的唐诗变体。2022年初互联网上最火的游戏 Wordle 的变体，玩法是猜唐诗。主要用到了 React + Tailwind。",
+    "link": "https://shidou.josscii.me/"
+  },
+  {
+    "id": 3,
+    "title": "时习",
+    "description":
+      "一个简单的复习本。记录需要记忆的内容，然后在复习周期内不断的复习。主要用到了 React + ChakraUI。",
+    "link": "https://shixi.josscii.me/"
+  }
+]
