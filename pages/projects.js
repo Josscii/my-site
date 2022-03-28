@@ -17,7 +17,8 @@ export default function Projects() {
               <a className="text-lg font-bold">白话天气</a>
             </Link>
             <p>
-              天气类应用已经泛滥了，想要做一款不一样的很难，虽然自己不懂设计，但简洁总是很难出错。
+              一款只用文字显示天气信息的 iOS
+              app。天气类应用已经泛滥了，想要做一款不一样的很难，虽然自己不懂设计，但简洁总是很难出错。
             </p>
           </li>
           <li className="flex flex-col mb-3 gap-1">
@@ -25,7 +26,7 @@ export default function Projects() {
               <a className="text-lg font-bold">诗斗</a>
             </Link>
             <p>
-              2022年初互联网上最火的游戏 Wordle 的变体，
+              一个 Wordle 的唐诗变体。2022年初互联网上最火的游戏 Wordle 的变体，
               玩法是猜唐诗。主要用到了 React + Tailwind。
             </p>
           </li>
@@ -34,8 +35,8 @@ export default function Projects() {
               <a className="text-lg font-bold">时习</a>
             </Link>
             <p>
-              记录需要记忆的内容，然后在复习周期内不断的复习。主要用到了 React +
-              ChakraUI。
+              一个简单的复习本。记录需要记忆的内容，然后在复习周期内不断的复习。主要用到了
+              React + ChakraUI。
             </p>
           </li>
         </ul>
